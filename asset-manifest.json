@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Carteira/static/css/main.33110bef.css",
-    "main.js": "/Carteira/static/js/main.58f73dc9.js",
-    "static/media/home-img.jpg": "/Carteira/static/media/home-img.d65d8bd256c1c2d6d16f.jpg",
-    "static/media/DevJS-CV.pdf": "/Carteira/static/media/DevJS-CV.0e40c430f0a4e42e35e6.pdf",
-    "static/media/img-7.jpeg": "/Carteira/static/media/img-7.fb3a493056eaa700b53b.jpeg",
-    "static/media/img-1.jpeg": "/Carteira/static/media/img-1.d34a9c3a2354be5e82a7.jpeg",
-    "static/media/img-8.jpeg": "/Carteira/static/media/img-8.2ef498ee6134e37181f2.jpeg",
-    "static/media/img-3.jpeg": "/Carteira/static/media/img-3.bcec9a569d41c7ae47e0.jpeg",
-    "static/media/img-4.jpeg": "/Carteira/static/media/img-4.bbbc5cd2ac445d8642da.jpeg",
-    "static/media/img-6.jpeg": "/Carteira/static/media/img-6.81d369fe87f0b9463987.jpeg",
-    "static/media/img-2.jpeg": "/Carteira/static/media/img-2.41d8c41d782df6861eb4.jpeg",
-    "static/media/img-5.jpeg": "/Carteira/static/media/img-5.c8791eb6d53bf9dcc34d.jpeg",
-    "index.html": "/Carteira/index.html",
-    "main.33110bef.css.map": "/Carteira/static/css/main.33110bef.css.map",
-    "main.58f73dc9.js.map": "/Carteira/static/js/main.58f73dc9.js.map"
+    "main.css": "/carteira/static/css/main.33110bef.css",
+    "main.js": "/carteira/static/js/main.d9cff01f.js",
+    "static/media/home-img.jpg": "/carteira/static/media/home-img.d65d8bd256c1c2d6d16f.jpg",
+    "static/media/DevJS-CV.pdf": "/carteira/static/media/DevJS-CV.0e40c430f0a4e42e35e6.pdf",
+    "static/media/img-7.jpeg": "/carteira/static/media/img-7.fb3a493056eaa700b53b.jpeg",
+    "static/media/img-1.jpeg": "/carteira/static/media/img-1.d34a9c3a2354be5e82a7.jpeg",
+    "static/media/img-8.jpeg": "/carteira/static/media/img-8.2ef498ee6134e37181f2.jpeg",
+    "static/media/img-3.jpeg": "/carteira/static/media/img-3.bcec9a569d41c7ae47e0.jpeg",
+    "static/media/img-4.jpeg": "/carteira/static/media/img-4.bbbc5cd2ac445d8642da.jpeg",
+    "static/media/img-6.jpeg": "/carteira/static/media/img-6.81d369fe87f0b9463987.jpeg",
+    "static/media/img-2.jpeg": "/carteira/static/media/img-2.41d8c41d782df6861eb4.jpeg",
+    "static/media/img-5.jpeg": "/carteira/static/media/img-5.c8791eb6d53bf9dcc34d.jpeg",
+    "index.html": "/carteira/index.html",
+    "main.33110bef.css.map": "/carteira/static/css/main.33110bef.css.map",
+    "main.d9cff01f.js.map": "/carteira/static/js/main.d9cff01f.js.map"
   },
   "entrypoints": [
     "static/css/main.33110bef.css",
-    "static/js/main.58f73dc9.js"
+    "static/js/main.d9cff01f.js"
   ]
 }
