@@ -70,7 +70,7 @@ class Sections extends Component {
                   </p>
                   <p>
                     {" "}
-                    <span> language : </span> Portuguese, english(B1){" "}
+                    <span> language : </span> Portuguese, english{" "}
                   </p>
                   <p>
                     {" "}
